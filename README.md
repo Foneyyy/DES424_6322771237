@@ -1,6 +1,6 @@
 # DES424_6322771237
 
-# testgit
+
 This is a test program for DES424 6322771237.
 ### Table of contents
 * [Required Software](#required-software)
